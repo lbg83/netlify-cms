@@ -11,15 +11,16 @@ docs:
     blocks:
       - type: component1
         heading: Comp 1
+        content: Content Comp 1
   - title: Second Section
     name: test
     blocks:
       - type: component1
         heading: Comp 1
-        content: sdfsdf
+        content: Content Comp 1
       - type: component2
         heading: Comp 2
-        content: asdasd
+        content: Content Comp 2
 ---
 Netlify CMS 2.4.0 brings deploy preview links!
 
