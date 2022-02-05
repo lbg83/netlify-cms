@@ -2,3 +2,6 @@ authors:
   - slug: test
     name: test
     introduction: test
+  - slug: laura
+    name: laura
+    introduction: laura
